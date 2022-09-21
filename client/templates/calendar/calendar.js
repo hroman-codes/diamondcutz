@@ -1,5 +1,6 @@
 // if (Meteor.isClient) {
 // This is my call back for the close modal button 
+
 Template.Dialog.events({
 	"click .closeDialog": function(event, template){
 		Session.set('editing_event', null);
