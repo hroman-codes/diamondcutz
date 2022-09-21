@@ -6,3 +6,18 @@ A platform developed with Meteor and MongoDB, with a reactive and responsive UI.
 
 ## Live Demo
 [Demo](https://diamondcutz.meteorapp.com/)
+
+## Tech Stack
+##### ```Scaffolding```
+- HTML
+- Blaze.js
+##### ```Styling``` 
+- CSS
+##### ```Javascript Library```
+- Meteor
+
+##### ```Database```
+- MongoDB
+
+##### ```Deployment/Hosting Infrastructure```
+- Meteor Cloud
